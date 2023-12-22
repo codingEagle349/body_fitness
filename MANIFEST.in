@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include body_fitness *.css
+recursive-include body_fitness *.csv
+recursive-include body_fitness *.html
+recursive-include body_fitness *.ico
+recursive-include body_fitness *.js
+recursive-include body_fitness *.json
+recursive-include body_fitness *.md
+recursive-include body_fitness *.png
+recursive-include body_fitness *.py
+recursive-include body_fitness *.svg
+recursive-include body_fitness *.txt
+recursive-exclude body_fitness *.pyc
