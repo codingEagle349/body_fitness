@@ -1,0 +1,66 @@
+.fee-due-list {
+	border: 1px solid #d9dddd;
+/*	border-radius: 10px;*/
+/*	background-color: #40E0D0;*/
+}
+
+/*.member-trainer-details {
+	border: 1px solid #d9dddd;
+}*/
+
+.members-count-section {
+	border: 1px solid #d9dddd;
+}
+/*.main-section-layout{
+	background-color: #F0FFFF;
+}*/
+
+table, tr, td {
+/*	border: 1px solid black;*/
+	font-family: "Times New Roman", Times, serif; font-size: var(--text-lg); line-height: 1.3em;
+}
+
+.fee-due-table, .trainer-attendance-table {
+	margin-bottom: 20px !important;
+}
+
+
+
+.members-count {
+	font-size: 18px;
+	font-family: sans-serif;
+	font-weight: bold;
+	align-items: center;
+	justify-content: center;
+	padding-left: 6%;
+}
+
+.card-body {
+	text-align: center !important;
+	padding-left: 36%;
+}
+.card-text {
+	font-size: 56px;
+	text-align: center;
+	text-align: middle;
+	width: 80px; /* Adjust the size of the circle */
+	height: 80px; /* Adjust the size of the circle */
+	background-color: #007bff; /* Change the background color */
+	color: #f8e712; /* Change the text color */
+	border-radius: 50%; /* Make it a circle */
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.trainer-attendance {
+	margin-top: 62px;
+	border: 1px solid #d9dddd;
+/*	background-color: #40D0E0;*/
+/*	border-radius: 10px;*/
+}
+
+.sex-chart, .trainer-chart, .package-chart {
+	border: 1px solid #d9dddd;
+}
+
