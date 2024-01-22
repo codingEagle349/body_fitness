@@ -27,6 +27,7 @@ class GymDashboardforAdmin {
 				<div class="col-lg-6 col-6 col-md-12 col-sm-12">
 					<div class="row">
 						<div class="col-lg-12  col-12 col-md-12 col-sm-12 fee-due-list">
+						<h1>Hello to Qadeer Rizvi from Github</h1>
 						<h3 style="text-align: center; font-family: inherit; line-height: 1.3em; font-family: Times New Roman, Times, serif;">Due Fee</h3></div>
 					</div>
 
